@@ -1,0 +1,18 @@
+{
+  "name": "insightfulpipe-marketing-strategy",
+  "owner": {
+    "name": "InsightfulPipe",
+    "url": "https://insightfulpipe.com"
+  },
+  "metadata": {
+    "description": "32 free Claude skills for marketing strategy: marketing plans, launches, pricing, market research and sizing, positioning, brand, competitor research and personas.",
+    "version": "2026.10.3107"
+  },
+  "plugins": [
+    {
+      "name": "insightfulpipe-marketing-strategy",
+      "description": "32 free Claude skills for marketing strategy: marketing plans, launches, pricing, market research and sizing, positioning, brand, competitor research and personas.",
+      "source": "./"
+    }
+  ]
+}

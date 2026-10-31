@@ -1,0 +1,21 @@
+{
+  "name": "insightfulpipe-marketing-strategy",
+  "displayName": "InsightfulPipe Marketing Strategy Skills",
+  "description": "32 free Claude skills for marketing strategy: marketing plans, launches, pricing, market research and sizing, positioning, brand, competitor research and personas.",
+  "version": "2026.10.3107",
+  "author": {
+    "name": "InsightfulPipe",
+    "url": "https://insightfulpipe.com"
+  },
+  "homepage": "https://insightfulpipe.com/marketing-claude-skills/strategy",
+  "repository": "https://github.com/Insightful-Pipe/marketing-strategy-skills",
+  "license": "MIT",
+  "keywords": [
+    "marketing-strategy",
+    "marketing-plan",
+    "market-research",
+    "competitor-research",
+    "claude-skills",
+    "marketing"
+  ]
+}
