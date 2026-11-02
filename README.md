@@ -31,7 +31,7 @@ Download a skill's ZIP from its page on insightfulpipe.com (the **Page** links b
 
 | Skill | What it does | |
 |---|---|---|
-| [Brand Architecture Planner](skills/brand-architecture/) | Plans brand architecture from name search demand, GA4 and Google Ads data. |  |
+| [Brand Architecture](skills/brand-architecture/) | Plans brand architecture from name search demand, GA4 and Google Ads data. | [Page](https://insightfulpipe.com/marketing-claude-skills/strategy/brand-architecture) |
 | [Brand Health and Share of Search Tracker](skills/brand-health-tracker/) | Tracks brand health monthly, led by share of search against named competitors, plus branded search, direct users, reviews and followers from Search Console, GA4, Google… |  |
 | [Brand Positioning Builder](skills/brand-positioning-builder/) | Builds brand positioning from your site, up to four competitor home pages and the words buyers search in Search Console. |  |
 | [Buyer Persona Builder](skills/buyer-persona-builder/) | Builds buyer personas and an ICP from GA4, Search Console, LinkedIn Ads, Meta and Klaviyo evidence, plus interview plans, voice of customer analysis and best-fit… | [Page](https://insightfulpipe.com/marketing-claude-skills/marketing/buyer-persona-builder) |
